@@ -5,7 +5,5 @@ It aims to bridge the gap between **volunteers** and **NGOs**, enabling easier c
 
 ## 🚀 Getting Started (Local Setup)
 
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/adityaraj1929/skillBridge.git
-cd skillBridge
+
+
